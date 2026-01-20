@@ -1,5 +1,5 @@
 # darwincore_omeka
-A guide on how to use Darwincore RDF with Omeka S
+A guide on how to use [Darwincore RDF](https://dwc.tdwg.org/rdf/) with [Omeka S](https://omeka.org/s/). 
 
 ## Adding the Darwin Core RDF terms to Omeka 
 In Omeka, follow these steps:
