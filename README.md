@@ -31,3 +31,8 @@ It'll be useful to have some resource templates. Go ahead and add them using the
 > 4. On the field that you want to edit, click on the pencil icon, and make your edits
 > 5. Don't forget to save!
 
+
+### Available resource templates 
+The following classes are available as resource templates in the `resource_templates` folder. I'll keep adding to those in the coming days, but also please feel free to make a PR with the relevant resource templates, and I'll be happy to merge those. 
+* `Generic_Darwin_Core_Record`: Record-level properties that are generic in that they might apply to any type of record in a dataset. 
+* `Taxon`
